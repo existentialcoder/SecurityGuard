@@ -1,0 +1,28 @@
+{
+  "name": "securityguard",
+  "version": "1.0.0",
+  "description": "One shop stop for all your passwords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/existentialcoder/SecurityGuard.git"
+  },
+  "keywords": [
+    "Passoword",
+    "Manager",
+    "Password",
+    "Management"
+  ],
+  "author": "Shravan B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/existentialcoder/SecurityGuard/issues"
+  },
+  "homepage": "https://github.com/existentialcoder/SecurityGuard#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
